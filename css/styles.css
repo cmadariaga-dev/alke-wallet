@@ -1,0 +1,9 @@
+/* Estilos sencillos para el fondo y las tarjetas */
+body {
+    background-color: #f4f6f9;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
